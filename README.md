@@ -40,7 +40,7 @@ To run this website locally, follow these steps:
 
 ## Demo
 
-1. Link: `https://github`
+1. Link demo: https://dungdevit.github.io/course-developer/
 2. Video: 
 
 https://github.com/DungDevIT/course-developer/assets/163750112/f1b3bb52-5cfe-4f12-825c-dbe9480fd7d2
