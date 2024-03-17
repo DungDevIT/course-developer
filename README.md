@@ -41,7 +41,11 @@ To run this website locally, follow these steps:
 ## Demo
 
 1. Link: `https://github`
-2. Video: [![Video Demo](./images/video-demo.mp4)]
+2. Video: 
+
+https://github.com/DungDevIT/course-developer/assets/163750112/73988c82-ab52-4a71-b067-5ab7fbc5b9c5
+
+
 
 ## Contributing
 
